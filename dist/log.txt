@@ -1,0 +1,25 @@
+name:zxc
+N_time:Mon Nov 11 20:06:37 2024	 data:(None, None)
+N_time:Mon Nov 11 20:06:37 2024	 data:(None, None)
+N_time:Mon Nov 11 20:06:44 2024	 data:('go', 'east')
+N_time:Mon Nov 11 20:06:44 2024	 data:forest
+N_time:Mon Nov 11 20:06:48 2024	 data:('go', 'south')
+N_time:Mon Nov 11 20:06:48 2024	 data:cave
+N_time:Mon Nov 11 20:06:58 2024	 data:('shop', None)
+N_time:Mon Nov 11 20:07:21 2024	 data:('buy', 'map')
+N_time:Mon Nov 11 20:07:38 2024	 data:('bag', None)
+N_time:Mon Nov 11 20:08:12 2024	 data:('quit', None)
+N_time:Mon Nov 11 20:08:33 2024	 data:('go', 'south')
+N_time:Mon Nov 11 20:08:33 2024	 data:cave1
+N_time:Mon Nov 11 20:08:50 2024	 data:('go', 'west')
+N_time:Mon Nov 11 20:08:51 2024	 data:cave2
+N_time:Mon Nov 11 20:08:58 2024	 data:('go', 'south')
+N_time:Mon Nov 11 20:08:58 2024	 data:mountain2
+N_time:Mon Nov 11 20:09:10 2024	 data:('go', 'west')
+N_time:Mon Nov 11 20:09:10 2024	 data:mountain2
+N_time:Mon Nov 11 20:09:14 2024	 data:('pickup', 'y')
+N_time:Mon Nov 11 20:09:19 2024	 data:('go', 'east')
+N_time:Mon Nov 11 20:09:19 2024	 data:lake1
+N_time:Mon Nov 11 20:09:22 2024	 data:('go', 'south')
+N_time:Mon Nov 11 20:09:22 2024	 data:mountain2
+N_time:Mon Nov 11 20:09:30 2024	 data:('pickup', 'y')
